@@ -33,9 +33,6 @@ Build Solution (F6). Alternatively, you can build from the command line using cs
 log4net.correlationPatternConverter is written in C# and requires the MS.NET Framework version 4.0. The only other external dependency
 is log4net, which will be installed automatically by Nuget when you build the solution.
 
-## Getting Your Blogger Export File
-See Google's documentation on importing and exporting blog data [here]([GitHub](http://support.google.com/blogger/bin/answer.py?hl=en&answer=97416). 
-
 ## Issues
 If you find an bug please [open an issue](https://github.com/kcargile/log4net.correlationPatternConverter/issues) or alternatively contact 
 me via my [blog](http://www.kriscargile.com).

@@ -27,6 +27,17 @@ can change the name of this to whatever you want, so long as the two variable na
 
 See App.config in the test project for a complete example.
 
+## Usage 
+Using the converter is easy. Create a new correlation using the System.Diagnostics.Trace.CorrelationManager:
+```
+Trace.CorrelationManager.StartLogicalOperation();
+Trace.CorrelationManager.ActivityId = new Guid();
+Logger.Info("Some important message.");
+```
+
+The value of the current activity id will be appended to the log message automatically. This is useful when you have processes that span 
+multiple classes in multi-user applications, since it allows you to group logical operations in your logfiles.
+
 ## Building the Project Yourself
 Clone the repository, open log4net.correlationPatternConverter.sln in Visual Studio, select the desired configuration, and click Build -> 
 Build Solution (F6). Alternatively, you can build from the command line using csc or MSBuild.

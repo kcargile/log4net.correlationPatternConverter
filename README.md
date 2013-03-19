@@ -1,5 +1,5 @@
-log4net.correlationPatternConverter
-===================================
+log4net Correlation Pattern Converter
+=====================================
 
 A log4net pattern converter that appends System.Diagnostics.Trace.CorrelationManager information to log messages.
 

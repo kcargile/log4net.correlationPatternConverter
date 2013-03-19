@@ -4,8 +4,10 @@ log4net.correlationPatternConverter
 A log4net pattern converter that appends System.Diagnostics.Trace.CorrelationManager information to log messages.
 
 ## Installation
-Download the latest package from the project's [downloads](https://github.com/kcargile/log4net.correlationPatternConverter/downloads) page. 
-Extract the zip to a folder on your machine, update your log4net configuration, and you're ready to go.
+Install the package via nuget using the following command:
+```
+Install-Package log4net.correlationPatternConverter
+```
 
 ## Configuration
 You can set up the converter by adding it to the <layout> section of your existing log4net configuraiton in App.config or Web.config. 

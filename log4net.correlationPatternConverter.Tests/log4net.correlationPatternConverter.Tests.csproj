@@ -8,7 +8,7 @@
     <ProjectGuid>{B64C1BA3-F956-4B30-A9C3-1C8625DC0931}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>log4net.correlationPatternConverter.Tests</RootNamespace>
+    <RootNamespace>log4net.Layout.Pattern.Tests</RootNamespace>
     <AssemblyName>log4net.correlationPatternConverter.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -48,7 +48,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="LogFixture.cs" />
+    <Compile Include="CorrelationPatternConverterFixture.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

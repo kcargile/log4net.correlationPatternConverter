@@ -4,10 +4,10 @@ using System.IO;
 using System.Reflection;
 using NUnit.Framework;
 
-namespace log4net.correlationPatternConverter.Tests
+namespace log4net.Layout.Pattern.Tests
 {
     [TestFixture]
-    public class LogSomeMessagesFixture
+    public class CorrelationPatternConverterFixture
     {
         private const string LogFileName = "unittest.log";
         private static readonly ILog Logger = LogManager.GetLogger(MethodBase.GetCurrentMethod().DeclaringType);

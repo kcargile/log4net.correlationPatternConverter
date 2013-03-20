@@ -10,8 +10,11 @@
     <projectUrl>https://github.com/kcargile/log4net.correlationPatternConverter</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>Initial release.</releaseNotes>
+    <releaseNotes>Readme updates.</releaseNotes>
     <copyright>Copyright (c) 2013 Cargile Technology Group, LLC</copyright>
     <tags>log4net</tags>
   </metadata>
+  <files>
+	<file src="..\readme.txt" target="" /> 
+  </files>
 </package>

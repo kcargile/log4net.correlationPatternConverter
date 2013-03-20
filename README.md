@@ -47,8 +47,7 @@ log4net.correlationPatternConverter is written in C# and requires the MS.NET Fra
 is log4net, which will be installed automatically by Nuget when you build the solution.
 
 ## Issues
-If you find an bug please [open an issue](https://github.com/kcargile/log4net.correlationPatternConverter/issues) or alternatively contact 
-me via my [blog](http://www.kriscargile.com).
+If you find an bug please [open an issue](https://github.com/kcargile/log4net.correlationPatternConverter/issues).
 
 ## License
 See LICENSE. Copyright (c) 2013, Cargile Technology Group, LLC.

@@ -1,1 +1,1 @@
-https://github.com/kcargile/log4net.correlationPatternConverter
+See https://github.com/kcargile/log4net.correlationPatternConverter for usage information or to file a bug report.

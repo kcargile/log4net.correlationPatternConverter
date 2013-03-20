@@ -15,7 +15,7 @@
     <tags>log4net</tags>
   </metadata>
   <files>
-	  <file src="..\readme.txt" target="" />
-    <file src="..\LICENSE" target="" />
+	<file src="..\readme.txt" target="" />
+    <file src="..\LICENSE" target="LICENSE" />
   </files>
 </package>

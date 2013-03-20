@@ -1,1 +1,1 @@
-"C:\Program Files (x86)\NuGet\nuget" pack log4net.correlationPatternConverter\log4net.correlationPatternConverter.csproj -Prop Configuration=Release
+.nuget\nuget pack log4net.correlationPatternConverter\log4net.correlationPatternConverter.csproj -Prop Configuration=Release

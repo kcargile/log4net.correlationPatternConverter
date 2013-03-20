@@ -14,6 +14,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "log4net.correlationPatternC
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C631CC7D-3ACD-4728-9A95-1F3248B5E1CB}"
 	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
 		log4net.correlationPatternConverter\log4net.correlationPatternConverter.nuspec = log4net.correlationPatternConverter\log4net.correlationPatternConverter.nuspec
 		nuget-package.bat = nuget-package.bat
 		README.md = README.md

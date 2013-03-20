@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("A log4net pattern converter that appends System.Diagnostics.Trace.CorrelationManager information to log messages.")]
 [assembly: AssemblyCompany("Kristopher Cargile")]
 [assembly: AssemblyProduct("log4net.correlationPatternConverter")]
-[assembly: AssemblyCopyright("Copyright (c) 2013 Cargile Technology Group, LLC")]
+[assembly: AssemblyCopyright("Copyright © 2013 Cargile Technology Group, LLC")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]

@@ -7,7 +7,7 @@ using log4net.Config;
 [assembly: AssemblyConfiguration("Debug")]
 [assembly: AssemblyCompany("Krstopher Cargile")]
 [assembly: AssemblyProduct("log4net.correlationPatternConverter.Tests")]
-[assembly: AssemblyCopyright("Copyright (c) 2013 Cargile Technology Group, LLC")]
+[assembly: AssemblyCopyright("Copyright © 2013 Cargile Technology Group, LLC")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]

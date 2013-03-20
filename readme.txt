@@ -1,0 +1,1 @@
+https://github.com/kcargile/log4net.correlationPatternConverter
